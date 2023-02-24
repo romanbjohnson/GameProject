@@ -6,7 +6,7 @@ This is the first commit to the Space History Jeopardy Game. This idea first cam
 
 Day 2 
 
-Because of this, I think it very important to highlight some of the technological contributions of technologists to the space industry including software engineers, data scientists, and machine learning engineers. This game will have a simple interface and include a two-player role gaming interface as well. The homepage will be the base of where nearly as the questions come to. When one player picks one question, it will make a "room create eventID" that will be equal to the amount of questions that each question has. I will only want two players to join one room. 
+Because of this, I think it very important to highlight some of the technological contributions of technologists to the space industry including software engineers, data scientists, and machine learning engineers. This game will have a simple interface and include a two-player role gaming interface as well. The homepage will be the base of where nearly as the questions come to. When one player picks one question, it will make a "room create eventID" that will be equal to the amount of questions that each question has. I will only want two players to join one room. Every question will be attached to four answers of which only one answer will be correct. I will be using the both the FOR LOOP and IF ELSE statements in Javascript to achieve this goal. 
 
 Wifeframing
 
@@ -19,3 +19,5 @@ Today, I'm thinking through the elements of DOM (document object model) manipula
 **  References**
   https://www.w3schools.com/tags/tag_span.asp
   https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+  https://www.w3schools.com/js/js_loop_for.asp
+  https://www.w3schools.com/js/js_if_else.asp
