@@ -10,7 +10,7 @@ Because of this, I think it very important to highlight some of the technologica
 
 Wifeframing
 
-In terms of the software programming we will be including in this project, we will be using HTML programming, CSS (Cascading Style Sheets), and Javascript. We will be planning the layout of the website using this concept called wireframing. Because we will be designing this game in a tabular format, we will be creating a main divider (div) that we are called "app" and each category will have their own dividers as well. The five categories are the following: "who, what, why, when, and where." I have chosen this simple layout for its simplicity and easy-to-understand layout for coders who will look at my code in the future so they can improve their coding skills and also learn from this project. As I was saying above, the design of this game will be in a tabular format with a click function for each "square" (divider name for the question itself). In building this game, one of the objects is to use a strategy called dom manipuatlion which refers to a method where you are retreiving elements from a document that you have access to. 
+In terms of the software programming we will be including in this project, we will be using HTML programming, CSS (Cascading Style Sheets), and Javascript. We will be planning the layout of the website using this concept called wireframing. Because we will be designing this game in a tabular format, we will be creating a main divider (div) that we are called "app" and each category will have their own dividers as well. The five categories are the following: "who, what, why, when, and where." I have chosen this simple layout for its simplicity and easy-to-understand layout for coders who will look at my code in the future so they can improve their coding skills and also learn from this project. As I was saying above, the design of this game will be in a tabular format with a click function for each "square" (divider name for the question itself). In building this game, one of the objects is to use a strategy called dom manipuatlion which refers to a method where you are retreiving elements from a document that you have access to. I will be using the Javascript popup Box function to alert Player 1 and Player 2
 
 Day 3 
 
@@ -21,3 +21,4 @@ Today, I'm thinking through the elements of DOM (document object model) manipula
   https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
   https://www.w3schools.com/js/js_loop_for.asp
   https://www.w3schools.com/js/js_if_else.asp
+  https://www.w3schools.com/js/js_popup.asp
