@@ -8,6 +8,9 @@ const body = document.body
  // spanHi.removeAttribute("id")
  console.log(spanHi.dataset.longerName)
  console.log(spanHi.title)
+ // spanHi.style.color = "red"
+ //spanHi.style.backgroundColor = "red"
+
  //spanHi.dataset.newName = "hi"
  //spanHi.classList
  // spanHi.classList.toggle("hi 2")
@@ -33,3 +36,13 @@ const body = document.body
  //const = document.querySelector('div')
  //console.log(div.textContent)
  //console.log(div.innerText)
+
+
+ /*
+The code below will change
+the heading with id = "myH"
+and the paragraph with id = "myP"
+in my web page:
+
+
+*/
