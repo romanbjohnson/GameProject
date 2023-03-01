@@ -32,3 +32,4 @@ Today, I'm focusing on all the functions I need to create for my jeopardy game. 
   https://www.w3schools.com/js/js_if_else.asp
   https://www.w3schools.com/js/js_popup.asp
   https://www.programiz.com/javascript/setInterval
+  https://rollbar.com/blog/javascript-referenceerror/
